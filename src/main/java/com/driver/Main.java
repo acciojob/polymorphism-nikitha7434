@@ -13,16 +13,16 @@ public class Main {
 
         public int product(int x, int y) {
 
-            return x * y;
+            return x ;
         }
 
         public int product(int x, int y, int z) {
 
-            return x * y * z;
+            return y;
         }
         public double product(double x, double y) {
 
-            return x*y;
+            return x;
         }
 
     }
